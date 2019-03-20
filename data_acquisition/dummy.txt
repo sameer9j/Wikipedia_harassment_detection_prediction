@@ -1,0 +1,4 @@
+files to dump-
+webscraping txt data
+webscraping ores data
+documentation - getting revision activity data with cmds
