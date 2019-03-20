@@ -1,9 +1,7 @@
 # Wikipedia - Trust & Safety
-### Online Harassment Detection and Early Prediction of Problematic Users in the English Wikipedia Community
+### Online Harassment Detection and Prediction of Problematic Users in the English Wikipedia Community
 
-#### Team - Charu Rawat ,Arnab Sarkar and Sameer Singh
-
-#### This repo contains code part of our capstone project on leveraging machine learning and deep learning techniques to detect online harassment in the Wikipedia user community. This project is a part of the UVA MS Data Science Program and is sponsored by the Wikimedia Foundation. The project is expected to be completed by May 2019.
+#### This repo contains code part of the capstone project on leveraging machine learning and deep learning techniques to detect online harassment in the Wikipedia user community. This project is a part of the UVA MS Data Science Program and is sponsored by the Wikimedia Foundation. The project is expected to be completed by May 2019.
 
 Please click [here](https://meta.wikimedia.org/wiki/University_of_Virginia/Machine_learning_to_predict_Wikimedia_user_blocks) to read more about the research project.
 
