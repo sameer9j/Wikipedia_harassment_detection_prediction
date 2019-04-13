@@ -1,4 +1,4 @@
-## Online Harassment Detection and Prediction of Problematic Users in the English Wikipedia Community
+## Online Abuse Detection and Prediction of Problematic Users in the English Wikipedia Community
 
 Please click [here](https://meta.wikimedia.org/wiki/University_of_Virginia/Machine_learning_to_predict_Wikimedia_user_blocks) to read more about the research project.
 
