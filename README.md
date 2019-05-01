@@ -1,6 +1,6 @@
 ## Online Abuse Detection and Prediction of Problematic Users in the English Wikipedia
 
-Please click [here](https://meta.wikimedia.org/wiki/University_of_Virginia/Machine_learning_to_predict_Wikimedia_user_blocks) to read more about the research project.
+Please click [here](https://meta.wikimedia.org/wiki/University_of_Virginia/Machine_learning_to_predict_Wikimedia_user_blocks) and [here](https://datascience.virginia.edu/projects/trolls-and-troublemakers) to read more about the research project.
 
 #### Project description:
 The advent of the Internet can be easily heralded as one of the key events which
